@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Overview
 ========
 
@@ -64,3 +65,10 @@ Next Steps
 ==========
 
 Read the README file in each of the subdirectories for more information about what goes in those directories.
+=======
+chef-repo
+=========
+
+
+Chef Repo
+>>>>>>> 10a0dde133ead3c71d8a1cf989d0c7e32b7ee878
